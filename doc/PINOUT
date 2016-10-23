@@ -1,0 +1,4 @@
+Servo VCC (red) to 5V VCC pin.
+Servo GND (brown) to GND pin.
+Servo DATA (orange) to ~D1 pin on NodeMCU, GPIO5 on EMC8266.
+

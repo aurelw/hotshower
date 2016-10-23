@@ -1,0 +1,7 @@
+# Commands:
+    Send this commands to the topic: <device-topic>/cmd 
+
+    PRESS: Presses the button once with the servo.
+    FILL_TANK: Fills the tank, aka pressing the button twice.
+    CANCEL_FILL_TANK: Cancels the filling of tank if sent within one minute after FILL_TANK.
+
