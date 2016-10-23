@@ -1,0 +1,9 @@
+host = 'mqtt.devlol.org';	// hostname or IP address
+port = 8443;
+topic = 'aurel/hotshower/#'		// topic to subscribe to
+useTLS = true;
+username = null;
+password = null;
+// username = "jjolie";
+// password = "aa";
+cleansession = true;
